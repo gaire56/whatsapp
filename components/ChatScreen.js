@@ -3,7 +3,7 @@ import styled from 'styled-components';
 function ChatScreen() {
   return (
     <Container>
-      <h1>this is a chat</h1>
+      <h1>this is a chat from chat screen</h1>
     </Container>
   );
 }
@@ -11,3 +11,5 @@ function ChatScreen() {
 export default ChatScreen;
 
 const Container = styled.div``;
+
+//test
